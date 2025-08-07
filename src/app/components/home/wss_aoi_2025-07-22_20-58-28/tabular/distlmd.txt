@@ -1,0 +1,12 @@
+"Non-MLRA Soil Survey Area"|"HI990"|"Island of Oahu, Hawaii"||03/01/1966 00:00:00|"certified, all components"|09/10/2024 23:53:18|"The SSS certified the data population for all map units, and concurred with correlation of all projects mentioned, as they were documented in Soil Survey Area Legend(s) and in the Project Correlation table.
+This dataset also contains the following changes:
+Recalculated all national, regional, and local interpretations for all components.
+The two new national interpretations listed below are new for Fiscal Year 2024:
+1.	PFAS - Chemical Attenuation in Soils
+2.	PFAS - Movement Classes in Soils
+The six new regional interpretations listed below are new for Fiscal Year 2024: 
+1.	TROP - Cacao Suitability
+2.	TROP - Coffee (Arabica) Suitability
+3.	TROP - Guineagrass Suitability
+4.	TROP - Plantains Productivity
+"|"14197"|"89079"|"88980"

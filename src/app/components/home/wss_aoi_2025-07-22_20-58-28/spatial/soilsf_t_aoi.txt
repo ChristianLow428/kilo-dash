@@ -1,0 +1,4 @@
+"HI990"|3|"MPI"|"Mine or quarry"|An open excavation from which soil and underlying material have been removed and in which bedrock is exposed. Also denotes surface openings to underground mines. Typically 0.2 to 2 acres.|"237949"
+"HI990"|3|"ROC"|"Rock outcrop"|An exposure of bedrock at the surface of the earth. Not used where the named soils of the surrounding map unit are shallow over bedrock or where Rock outcrop is a named component of the map unit. Typically 0.1 to 2 acres.|"237950"
+"HI990"|3|"STN"|"Stony spot"|A spot where 0.01 to 0.1 percent of the soil surface is covered by rock fragments that are more than 10 inches in diameter in areas where the surrounding soil has no surface stones. Typically 0.1 to 2 acres.|"237951"
+"HI990"|3|"WET"|"Wet spot"|A somewhat poorly drained to very poorly drained area that is at least two drainage classes wetter than the named soils in the surrounding map unit. Typically 0.1 to 2 acres.|"237952"

@@ -1,0 +1,8 @@
+"Lithic bedrock"|"Indurated"|38|48|48|68|73|78|20|25|30|"26150227"|"7419549"
+"Lithic bedrock"|"Very strongly coherent"|0|0|0|150|152|155|150|152|155|"26150228"|"7419550"
+"Paralithic bedrock"|"Weakly coherent"|51|74|102|||||||"26150100"|"7419545"
+"Lithic bedrock"|"Indurated"|20|48|51|||||||"26150210"|"7419543"
+"Lithic bedrock"|"Indurated"|10|20|25|||||||"26150189"|"7419559"
+"Lithic bedrock"|"Indurated"|0|0|0||152|||||"26150190"|"7419560"
+"Lithic bedrock"|"Indurated"|0|0|0|||||||"26150191"|"7419539"
+"Paralithic bedrock"|"Weakly coherent"|51|64|102|||||||"26150192"|"7419551"

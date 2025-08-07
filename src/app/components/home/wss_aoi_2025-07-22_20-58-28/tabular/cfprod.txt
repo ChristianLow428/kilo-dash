@@ -1,0 +1,6 @@
+"MEPO5"|"Metrosideros polymorpha"|"`ohi`a lehua"||||||||"26150230"|"36294186"
+"MEPO5"|"Metrosideros polymorpha"|"`ohi`a lehua"||||||||"26150231"|"36294183"
+"MEPO5"|"Metrosideros polymorpha"|"`ohi`a lehua"||||||||"26150232"|"36294184"
+"MEPO5"|"Metrosideros polymorpha"|"`ohi`a lehua"||||||||"26150233"|"36294188"
+"MEPO5"|"Metrosideros polymorpha"|"`ohi`a lehua"||||||||"26150236"|"36294161"
+"MEPO5"|"Metrosideros polymorpha"|"`ohi`a lehua"||||||||"26150259"|"36294185"
